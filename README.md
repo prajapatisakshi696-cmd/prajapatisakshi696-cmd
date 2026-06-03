@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakshi+Prajapati;MERN Stack Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Modern+Web+Apps+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakshi+Prajapati;FULL+Stack+developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Modern+Web+Apps+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -15,17 +15,14 @@
 </div>
 
 ---
-
-## 👩‍💻 About Me
-
-| | |
-|---|---|
-| 🎓 | BCA Student at IGNOU |
-| 💻 | Passionate Frontend Developer |
-| 🌱 | Learning Advanced React & Next.js |
-| 🚀 | Building Responsive Web Applications |
-| 🤝 | Open to Collaboration & Internship Opportunities |
-| ⚡ | I love clean and minimal UI designs |
+## About me
+- ⚒️I'm currently working on React/Next.js apps with Tailwind CSS,focusing on clean UI and scalable structure
+- 👯 Open to collaborating on responsive frontend projects with modular design -
+- 🤝 Exploring deployment workflows & freelance data collection opportunities -
+- 🌱 Learning advanced debugging & UI/UX best practices -
+- 💬 Ask me about Next.js, Tailwind customization, or project structuring
+- ⚡ Fun fact: I love clean, rectangular UI elements—they just make sense!
+- 👨‍💻 All of my projects are available at [GitHub link: prajapartisakshi696-cmd]
 
 ---
 
