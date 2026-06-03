@@ -69,16 +69,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatisakshi696-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajapatisakshi696-cmd&theme=tokyonight&row=1&column=7&no-frame=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
