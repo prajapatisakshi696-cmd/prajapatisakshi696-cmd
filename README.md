@@ -47,11 +47,11 @@
 ### ✈️ Travel Package Explorer
 > Explore travel destinations and packages with a beautiful responsive UI
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB),
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-38bdf8?style=for-the-badge)](https://travel-package-explorer.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prajapatisakshi696-cmd/travel-package-explorer)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-38bdf8?style=for-the-badge)]((https://memories-13ld.vercel.app/)),
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prajapatisakshi696-cmd/memories)
 
 ---
 
